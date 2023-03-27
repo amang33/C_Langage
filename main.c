@@ -1,11 +1,11 @@
 #include <stdio.h>
 
 int main(void) {
-	printf("È«±æµ¿\n");
-	printf("È« ±æ µ¿\n");
-	printf("È«  ±æ  µ¿\n");
+	printf("í™ê¸¸ë™\n");
+	printf("í™ ê¸¸ ë™\n");
+	printf("í™  ê¸¸  ë™\n");
 	
-//	Á¤¼öÇü ¼­½Ä¹®ÀÚ(%d) 
+//	ì •ìˆ˜í˜• ì„œì‹ë¬¸ì(%d) 
 	printf("%d", 500);
 	
 	return 0;
